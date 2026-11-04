@@ -1,0 +1,7 @@
+sample:
+  property1: "Gia tri cau hinh cho Config Client"
+  property2: "Hello Spring Cloud Config Server"
+
+client:
+  name: "PCDT Microservice"
+  description: "Ung dung thu nghiem Lab 4"
